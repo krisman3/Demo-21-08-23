@@ -1,6 +1,7 @@
 Test ala bala initial file
-int i = 0;
 
-        for (;i <= 10; i++) {
-            System.out.println(i);
-        }
+My local change
+Change into bugfix
+
+- Attempt to add changes - Kristiyan
+- test 222
